@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e8aeb1f838248d8a13fb3592ae87550b",
+    "revision": "59912bc966d8796780c1fa08fef2f043",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "7eea54ab820d672aae24",
+    "revision": "ce6b0cdc8d91db887422",
     "url": "/portfolio/static/css/main.c5966e54.chunk.css"
   },
   {
-    "revision": "ecf5fb64800ee57fc9bf",
-    "url": "/portfolio/static/js/2.5390d9ce.chunk.js"
+    "revision": "50ebbd6dc5ab43b837a0",
+    "url": "/portfolio/static/js/2.89248417.chunk.js"
   },
   {
     "revision": "62edfc10154d55204f7c145cddb8156a",
-    "url": "/portfolio/static/js/2.5390d9ce.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.89248417.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7eea54ab820d672aae24",
-    "url": "/portfolio/static/js/main.dc790f82.chunk.js"
+    "revision": "ce6b0cdc8d91db887422",
+    "url": "/portfolio/static/js/main.f78367e9.chunk.js"
   },
   {
     "revision": "58d18144e62526203a32",
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/Agustina.21f233e1.woff"
   },
   {
-    "revision": "bad3797865a0fde6fe985fd2b44b8554",
-    "url": "/portfolio/static/media/Ashutosh_Hathidara_Resume_ML.bad37978.pdf"
+    "revision": "686301fe9689cdece6700dcc9fe8dfca",
+    "url": "/portfolio/static/media/CV_Mselmi_Mohamed.686301fe.pdf"
   },
   {
     "revision": "e544c703e0d5e01fc5de27d38ec0a480",
@@ -84,8 +84,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/animated_logo.dcd6dee2.svg"
   },
   {
-    "revision": "9b6a5e7c0ead3060601089cceb149751",
-    "url": "/portfolio/static/media/b8b9decf-a0ea-408c-9fbc-a4827517bb6a-modified.9b6a5e7c.png"
+    "revision": "cf478706d14dcb79061555d6074ac6aa",
+    "url": "/portfolio/static/media/b8b9decf-a0ea-408c-9fbc-a4827517bb6a-modified.cf478706.png"
   },
   {
     "revision": "0d2dc4a96ed153436b71942791196690",
@@ -126,6 +126,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3bab7a9dc4324f1b2364d25a47fcfcf0",
     "url": "/portfolio/static/media/education.3bab7a9d.svg"
+  },
+  {
+    "revision": "fa9a7812547cbf11899d0e4f8fb7f219",
+    "url": "/portfolio/static/media/esprit.fa9a7812.png"
   },
   {
     "revision": "a00ede3f70759480e81f14f203edaa51",
@@ -226,6 +230,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "29152cf756a1facead5393c32e373371",
     "url": "/portfolio/static/media/intel_logo.29152cf7.jpg"
+  },
+  {
+    "revision": "53763c283f5d2c8079358e8bdaeb5c87",
+    "url": "/portfolio/static/media/istic.53763c28.png"
   },
   {
     "revision": "60ed0bd3f8b99ac1d29e74575f804aaa",
